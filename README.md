@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 🧑‍🎓 Currently Pursuing **Masters** in **Computer Science** at **NorthWest Missouri State University**.
 - 📚 Completed my **Undergraduation** in **Osmania University**.
+- I am interested in *Python(🐍), Reactjs*.
 - 📖 Favorite Books are *The Girl in Room Number 105* , *One Arranged Murder*.
 - 🎥 ***Movies*** are my Stress Buster❤️‍🔥.
 
