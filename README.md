@@ -1,8 +1,8 @@
 ### Hi there 👋
 - 🧑‍🎓 Currently Pursuing **Masters** in **Computer Science** at **NorthWest Missouri State University**.
-- 📚 Completed my ==Undergraduation in Osmania University==.
+- 📚 Completed my **Undergraduation** in **Osmania University**.
 - 📖 Favorite Books are The Girl in Room 105 , One Arranged Murder.
-- 🎥 *Movies* are Stress Buster❤️‍🔥
+- 🎥 ***Movies*** are Stress Buster❤️‍🔥.
 
 <!--
 **SridharCheppala/SridharCheppala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
